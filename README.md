@@ -12,3 +12,6 @@
 
 ### Семинар 2: Векторные представления слов
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1toknzsLSPhcp0wsvh9gV16WRuLtqeJn1)
+С ответами:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ELZP1Y9rmXgVEPLq4nDavVE_1jK0f49s)
+
