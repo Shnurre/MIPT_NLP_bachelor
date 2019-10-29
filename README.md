@@ -20,5 +20,4 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qbuYf1aXxXfsxUSGGHXwMmtFA7Z274Gw)
 
 С ответами:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/15yzSe296l5wDHx7W31VB9VrCgF-TUW6O)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yzSe296l5wDHx7W31VB9VrCgF-TUW6O)
