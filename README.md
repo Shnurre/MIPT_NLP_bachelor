@@ -21,3 +21,7 @@
 
 С ответами:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15yzSe296l5wDHx7W31VB9VrCgF-TUW6O)
+
+
+### Семинар 4: CNN и RNN для текстовой классификации
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1woA9rMcNHbf6wHOEvRrxrRIYgbPAYcwP)
