@@ -28,6 +28,8 @@
 ### Семинар 4: CNN и RNN для текстовой классификации
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1woA9rMcNHbf6wHOEvRrxrRIYgbPAYcwP)
 
-
 ### Лекция 5: Извлечение именованных сущностей (NER)
 [Download](https://github.com/Shnurre/MIPT_NLP_bachelor/blob/master/NER_rus_new.pptx)
+
+### Семинар 5: Модели с символьным уровнем для NER
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVDatpwvC6cZr2P984Taa3kwk0ytZsUH)
