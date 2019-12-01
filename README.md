@@ -33,3 +33,6 @@
 
 ### Семинар 5: Модели с символьным уровнем для NER
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVDatpwvC6cZr2P984Taa3kwk0ytZsUH)
+
+С ответами:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15t1t8i5s3dORabKk7xFsQG6vtYHZ6btR)
