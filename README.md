@@ -40,3 +40,7 @@
 
 ### Лекция 6: Машинный перевод и seq2seq
 [Download](https://github.com/Shnurre/MIPT_NLP_bachelor/blob/master/Машинный_перевод_и_seq2seq.pptx)
+
+
+### Семинар 6: Машинный перевод и seq2seq
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eIfm1-B6PEvB00zEnCJYohotrCCb4oMH)
