@@ -10,6 +10,9 @@
 С ответами:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k8zLDOsyR1lEsvPHrfUb96tXjWYg7d-R)
 
+Выполненное домашнее задание:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nj-C9YZ0iOjdY0IWvSZ_PWB3NbJmSwv3)
+
 ### Лекции 2-3: Векторные представления слов и языковые модели
 [Download](https://github.com/Shnurre/MIPT_NLP_bachelor/raw/master/NLP_embeddings_lm.pptx)
 
