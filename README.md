@@ -29,7 +29,7 @@
 [Download](https://github.com/Shnurre/MIPT_NLP_bachelor/raw/master/NLP_text_classification.ipynb)
 
 ### Семинар 4: CNN и RNN для текстовой классификации
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1woA9rMcNHbf6wHOEvRrxrRIYgbPAYcwP)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cMI3H3RHut_B9tOytSSCIxnntlUH2LjF)
 
 ### Лекция 5: Извлечение именованных сущностей (NER)
 [Download](https://github.com/Shnurre/MIPT_NLP_bachelor/blob/master/NER_rus_new.pptx)
