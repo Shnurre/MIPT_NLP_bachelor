@@ -35,11 +35,7 @@
 [Download](https://github.com/Shnurre/MIPT_NLP_bachelor/blob/master/NER_rus_new.pptx)
 
 ### Семинар 5: Модели с символьным уровнем для NER
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jVDatpwvC6cZr2P984Taa3kwk0ytZsUH)
-
-С ответами:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15t1t8i5s3dORabKk7xFsQG6vtYHZ6btR)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gQ9JQlBmB9hvC7KWVSJ-JkoPyvqemH3L)
 
 ### Лекция 6: Машинный перевод и seq2seq
 [Download](https://github.com/Shnurre/MIPT_NLP_bachelor/blob/master/Машинный_перевод_и_seq2seq.pptx)
