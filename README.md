@@ -42,4 +42,4 @@
 
 
 ### Семинар 6: Машинный перевод и seq2seq
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eIfm1-B6PEvB00zEnCJYohotrCCb4oMH)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nu9K8ho0rs_SIIQJ2PWdsqEKOeec6p7f)
